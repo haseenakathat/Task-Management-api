@@ -67,7 +67,7 @@ task-management-api/
    npm start
    ```
 
-## Deployed Link 🌐
+## [Deployed Link](https://haseenakathat.github.io/Task-Management-api/) 🌐
 
 [[Your API Link Here](http://localhost:3000/api/tasks)]
 
